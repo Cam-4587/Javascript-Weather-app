@@ -1,1 +1,1 @@
-[Open Weather Map](https://openweathermap.org/)
+[Open Weather Map](https://openweathermap.org/) - to retrieve your api key
